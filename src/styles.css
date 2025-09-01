@@ -43,6 +43,12 @@ body {
   margin: 30px;
 }
 
+.video-embed {
+  width: 100%;
+  aspect-ratio: 16/9;
+  margin: 30px;
+}
+
 .card {
   background-color: #ffff;
   margin: 30px 0;
